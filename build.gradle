@@ -24,7 +24,7 @@ task unpackFlaml(type: UnpackFlaml) {
 }
 
 flaml {
-    yamlFile = unpackFlaml.yamlFile
+    yamlFile = file('cmu-awb-time-data.yaml')
     flacFile = unpackFlaml.flacFile
 }
 

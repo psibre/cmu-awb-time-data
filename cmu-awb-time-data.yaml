@@ -1,0 +1,2160 @@
+- prompt: time0001
+  start: 0.0
+  end: 5.0
+  text: The time is now, exactly five past one, in the morning.
+  segments:
+  - lab: _
+    dur: 0.56
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.035
+  - lab: t
+    dur: 0.12
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.045
+  - lab: z
+    dur: 0.08
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.26
+  - lab: _
+    dur: 0.15
+  - lab: I
+    dur: 0.05
+  - lab: g
+    dur: 0.045
+  - lab: z
+    dur: 0.06
+  - lab: '{'
+    dur: 0.14
+  - lab: k
+    dur: 0.04
+  - lab: t
+    dur: 0.03
+  - lab: l
+    dur: 0.02
+  - lab: i
+    dur: 0.08
+  - lab: f
+    dur: 0.1
+  - lab: AI
+    dur: 0.15
+  - lab: v
+    dur: 0.05
+  - lab: p
+    dur: 0.085
+  - lab: '{'
+    dur: 0.13
+  - lab: s
+    dur: 0.06
+  - lab: t
+    dur: 0.075
+  - lab: w
+    dur: 0.14
+  - lab: V
+    dur: 0.09
+  - lab: n
+    dur: 0.075
+  - lab: _
+    dur: 0.195
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.075
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.075
+  - lab: O
+    dur: 0.145
+  - lab: r
+    dur: 0.055
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.075
+  - lab: N
+    dur: 0.12
+  - lab: _
+    dur: 0.87
+  - lab: _
+    dur: 0.225
+- prompt: time0002
+  start: 5.0
+  end: 10.0
+  text: The time is now, just after ten past two, in the morning.
+  segments:
+  - lab: _
+    dur: 0.415
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.03
+  - lab: t
+    dur: 0.115
+  - lab: AI
+    dur: 0.135
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.05
+  - lab: z
+    dur: 0.085
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.28
+  - lab: _
+    dur: 0.085
+  - lab: dZ
+    dur: 0.12
+  - lab: V
+    dur: 0.075
+  - lab: s
+    dur: 0.07
+  - lab: t
+    dur: 0.055
+  - lab: '{'
+    dur: 0.13
+  - lab: f
+    dur: 0.05
+  - lab: t
+    dur: 0.075
+  - lab: r=
+    dur: 0.085
+  - lab: t
+    dur: 0.135
+  - lab: E
+    dur: 0.105
+  - lab: n
+    dur: 0.045
+  - lab: p
+    dur: 0.11
+  - lab: '{'
+    dur: 0.14
+  - lab: s
+    dur: 0.08
+  - lab: t
+    dur: 0.075
+  - lab: t
+    dur: 0.045
+  - lab: u
+    dur: 0.305
+  - lab: _
+    dur: 0.13
+  - lab: I
+    dur: 0.03
+  - lab: n
+    dur: 0.065
+  - lab: D
+    dur: 0.01
+  - lab: '@'
+    dur: 0.03
+  - lab: m
+    dur: 0.07
+  - lab: O
+    dur: 0.135
+  - lab: r
+    dur: 0.06
+  - lab: n
+    dur: 0.045
+  - lab: I
+    dur: 0.065
+  - lab: N
+    dur: 0.105
+  - lab: _
+    dur: 0.96
+  - lab: _
+    dur: 0.22
+- prompt: time0003
+  start: 10.0
+  end: 16.0
+  text: The time is now, a little after quarter past three, in the morning.
+  segments:
+  - lab: _
+    dur: 0.36
+  - lab: D
+    dur: 0.04
+  - lab: '@'
+    dur: 0.025
+  - lab: t
+    dur: 0.1
+  - lab: AI
+    dur: 0.135
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.04
+  - lab: aU
+    dur: 0.28
+  - lab: _
+    dur: 0.08
+  - lab: '@'
+    dur: 0.04
+  - lab: l
+    dur: 0.055
+  - lab: I
+    dur: 0.05
+  - lab: t
+    dur: 0.06
+  - lab: '@'
+    dur: 0.035
+  - lab: l
+    dur: 0.075
+  - lab: '{'
+    dur: 0.135
+  - lab: f
+    dur: 0.045
+  - lab: t
+    dur: 0.07
+  - lab: r=
+    dur: 0.065
+  - lab: k
+    dur: 0.135
+  - lab: w
+    dur: 0.04
+  - lab: O
+    dur: 0.06
+  - lab: r
+    dur: 0.03
+  - lab: t
+    dur: 0.07
+  - lab: r=
+    dur: 0.03
+  - lab: p
+    dur: 0.1
+  - lab: '{'
+    dur: 0.145
+  - lab: s
+    dur: 0.1
+  - lab: t
+    dur: 0.075
+  - lab: T
+    dur: 0.125
+  - lab: r
+    dur: 0.04
+  - lab: i
+    dur: 0.275
+  - lab: _
+    dur: 0.13
+  - lab: I
+    dur: 0.045
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.04
+  - lab: O
+    dur: 0.155
+  - lab: r
+    dur: 0.055
+  - lab: n
+    dur: 0.055
+  - lab: I
+    dur: 0.075
+  - lab: N
+    dur: 0.085
+  - lab: _
+    dur: 1.85
+  - lab: _
+    dur: 0.225
+- prompt: time0004
+  start: 16.0
+  end: 22.0
+  text: The time is now, almost twenty past four, in the morning.
+  segments:
+  - lab: _
+    dur: 0.455
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.025
+  - lab: t
+    dur: 0.115
+  - lab: AI
+    dur: 0.13
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.08
+  - lab: z
+    dur: 0.085
+  - lab: n
+    dur: 0.06
+  - lab: aU
+    dur: 0.325
+  - lab: _
+    dur: 0.05
+  - lab: O
+    dur: 0.13
+  - lab: l
+    dur: 0.065
+  - lab: m
+    dur: 0.055
+  - lab: '@U'
+    dur: 0.18
+  - lab: s
+    dur: 0.08
+  - lab: t
+    dur: 0.045
+  - lab: t
+    dur: 0.085
+  - lab: w
+    dur: 0.015
+  - lab: E
+    dur: 0.06
+  - lab: n
+    dur: 0.055
+  - lab: t
+    dur: 0.055
+  - lab: i
+    dur: 0.055
+  - lab: p
+    dur: 0.095
+  - lab: '{'
+    dur: 0.155
+  - lab: s
+    dur: 0.075
+  - lab: t
+    dur: 0.025
+  - lab: f
+    dur: 0.13
+  - lab: O
+    dur: 0.28
+  - lab: r
+    dur: 0.115
+  - lab: _
+    dur: 0.145
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.025
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.06
+  - lab: O
+    dur: 0.14
+  - lab: r
+    dur: 0.06
+  - lab: n
+    dur: 0.055
+  - lab: I
+    dur: 0.1
+  - lab: N
+    dur: 0.085
+  - lab: _
+    dur: 1.735
+  - lab: _
+    dur: 0.22
+- prompt: time0005
+  start: 22.0
+  end: 28.0
+  text: The time is now, exactly twenty-five past five, in the morning.
+  segments:
+  - lab: _
+    dur: 0.43
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.12
+  - lab: AI
+    dur: 0.14
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.065
+  - lab: z
+    dur: 0.085
+  - lab: n
+    dur: 0.06
+  - lab: aU
+    dur: 0.295
+  - lab: _
+    dur: 0.1
+  - lab: I
+    dur: 0.055
+  - lab: g
+    dur: 0.05
+  - lab: z
+    dur: 0.07
+  - lab: '{'
+    dur: 0.14
+  - lab: k
+    dur: 0.05
+  - lab: t
+    dur: 0.04
+  - lab: l
+    dur: 0.015
+  - lab: i
+    dur: 0.08
+  - lab: t
+    dur: 0.12
+  - lab: w
+    dur: 0.02
+  - lab: E
+    dur: 0.055
+  - lab: n
+    dur: 0.055
+  - lab: t
+    dur: 0.045
+  - lab: i
+    dur: 0.055
+  - lab: f
+    dur: 0.09
+  - lab: AI
+    dur: 0.175
+  - lab: v
+    dur: 0.035
+  - lab: p
+    dur: 0.09
+  - lab: '{'
+    dur: 0.15
+  - lab: s
+    dur: 0.08
+  - lab: t
+    dur: 0.03
+  - lab: f
+    dur: 0.11
+  - lab: AI
+    dur: 0.28
+  - lab: v
+    dur: 0.11
+  - lab: _
+    dur: 0.115
+  - lab: I
+    dur: 0.04
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.08
+  - lab: O
+    dur: 0.14
+  - lab: r
+    dur: 0.045
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.09
+  - lab: N
+    dur: 1.24
+  - lab: _
+    dur: 0.34
+  - lab: _
+    dur: 0.265
+- prompt: time0006
+  start: 28.0
+  end: 34.0
+  text: The time is now, just after half past six, in the morning.
+  segments:
+  - lab: _
+    dur: 0.465
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.03
+  - lab: t
+    dur: 0.105
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.055
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.31
+  - lab: _
+    dur: 0.155
+  - lab: dZ
+    dur: 0.065
+  - lab: V
+    dur: 0.09
+  - lab: s
+    dur: 0.075
+  - lab: t
+    dur: 0.06
+  - lab: '{'
+    dur: 0.135
+  - lab: f
+    dur: 0.05
+  - lab: t
+    dur: 0.07
+  - lab: r=
+    dur: 0.105
+  - lab: h
+    dur: 0.095
+  - lab: '{'
+    dur: 0.12
+  - lab: f
+    dur: 0.065
+  - lab: p
+    dur: 0.09
+  - lab: '{'
+    dur: 0.16
+  - lab: s
+    dur: 0.05
+  - lab: t
+    dur: 0.015
+  - lab: s
+    dur: 0.13
+  - lab: I
+    dur: 0.11
+  - lab: k
+    dur: 0.095
+  - lab: s
+    dur: 0.15
+  - lab: _
+    dur: 0.155
+  - lab: I
+    dur: 0.055
+  - lab: n
+    dur: 0.065
+  - lab: D
+    dur: 0.015
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.035
+  - lab: O
+    dur: 0.145
+  - lab: r
+    dur: 0.07
+  - lab: n
+    dur: 0.04
+  - lab: I
+    dur: 0.1
+  - lab: N
+    dur: 0.105
+  - lab: _
+    dur: 0.96
+  - lab: _
+    dur: 0.95
+- prompt: time0007
+  start: 34.0
+  end: 40.0
+  text: The time is now, a little after twenty-five to seven, in the morning.
+  segments:
+  - lab: _
+    dur: 0.44
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.025
+  - lab: t
+    dur: 0.13
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.105
+  - lab: I
+    dur: 0.07
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.04
+  - lab: aU
+    dur: 0.305
+  - lab: _
+    dur: 0.09
+  - lab: '@'
+    dur: 0.035
+  - lab: l
+    dur: 0.075
+  - lab: I
+    dur: 0.055
+  - lab: t
+    dur: 0.065
+  - lab: '@'
+    dur: 0.035
+  - lab: l
+    dur: 0.055
+  - lab: '{'
+    dur: 0.145
+  - lab: f
+    dur: 0.05
+  - lab: t
+    dur: 0.075
+  - lab: r=
+    dur: 0.05
+  - lab: t
+    dur: 0.12
+  - lab: w
+    dur: 0.02
+  - lab: E
+    dur: 0.065
+  - lab: n
+    dur: 0.045
+  - lab: t
+    dur: 0.065
+  - lab: i
+    dur: 0.055
+  - lab: f
+    dur: 0.11
+  - lab: AI
+    dur: 0.19
+  - lab: v
+    dur: 0.05
+  - lab: t
+    dur: 0.085
+  - lab: '@'
+    dur: 0.02
+  - lab: s
+    dur: 0.15
+  - lab: E
+    dur: 0.095
+  - lab: v
+    dur: 0.05
+  - lab: '@'
+    dur: 0.105
+  - lab: n
+    dur: 0.11
+  - lab: _
+    dur: 0.11
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.065
+  - lab: O
+    dur: 0.135
+  - lab: r
+    dur: 0.06
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.1
+  - lab: N
+    dur: 0.09
+  - lab: _
+    dur: 1.53
+  - lab: _
+    dur: 0.23
+- prompt: time0008
+  start: 40.0
+  end: 45.0
+  text: The time is now, almost twenty to eight, in the morning.
+  segments:
+  - lab: _
+    dur: 0.48
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.1
+  - lab: AI
+    dur: 0.14
+  - lab: m
+    dur: 0.095
+  - lab: I
+    dur: 0.065
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.06
+  - lab: aU
+    dur: 0.31
+  - lab: _
+    dur: 0.1
+  - lab: O
+    dur: 0.12
+  - lab: l
+    dur: 0.105
+  - lab: m
+    dur: 0.055
+  - lab: '@U'
+    dur: 0.18
+  - lab: s
+    dur: 0.08
+  - lab: t
+    dur: 0.06
+  - lab: t
+    dur: 0.085
+  - lab: w
+    dur: 0.01
+  - lab: E
+    dur: 0.06
+  - lab: n
+    dur: 0.055
+  - lab: t
+    dur: 0.065
+  - lab: i
+    dur: 0.04
+  - lab: t
+    dur: 0.085
+  - lab: '@'
+    dur: 0.05
+  - lab: EI
+    dur: 0.22
+  - lab: t
+    dur: 0.165
+  - lab: _
+    dur: 0.185
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.05
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.05
+  - lab: O
+    dur: 0.155
+  - lab: r
+    dur: 0.055
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.07
+  - lab: N
+    dur: 0.1
+  - lab: _
+    dur: 0.995
+  - lab: _
+    dur: 0.215
+- prompt: time0009
+  start: 45.0
+  end: 50.0
+  text: The time is now, exactly quarter to nine, in the morning.
+  segments:
+  - lab: _
+    dur: 0.335
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.12
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.07
+  - lab: z
+    dur: 0.085
+  - lab: n
+    dur: 0.06
+  - lab: aU
+    dur: 0.295
+  - lab: _
+    dur: 0.125
+  - lab: I
+    dur: 0.035
+  - lab: g
+    dur: 0.065
+  - lab: z
+    dur: 0.07
+  - lab: '{'
+    dur: 0.145
+  - lab: k
+    dur: 0.06
+  - lab: t
+    dur: 0.045
+  - lab: l
+    dur: 0.03
+  - lab: i
+    dur: 0.1
+  - lab: k
+    dur: 0.15
+  - lab: w
+    dur: 0.035
+  - lab: O
+    dur: 0.095
+  - lab: r
+    dur: 0.025
+  - lab: t
+    dur: 0.055
+  - lab: r=
+    dur: 0.06
+  - lab: t
+    dur: 0.09
+  - lab: '@'
+    dur: 0.035
+  - lab: n
+    dur: 0.085
+  - lab: AI
+    dur: 0.17
+  - lab: n
+    dur: 0.18
+  - lab: _
+    dur: 0.215
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.04
+  - lab: m
+    dur: 0.055
+  - lab: O
+    dur: 0.155
+  - lab: r
+    dur: 0.065
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.085
+  - lab: N
+    dur: 0.1
+  - lab: _
+    dur: 0.93
+  - lab: _
+    dur: 0.22
+- prompt: time0010
+  start: 50.0
+  end: 55.0
+  text: The time is now, just after ten to ten, in the morning.
+  segments:
+  - lab: _
+    dur: 0.325
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.115
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.095
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.31
+  - lab: _
+    dur: 0.22
+  - lab: dZ
+    dur: 0.12
+  - lab: V
+    dur: 0.09
+  - lab: s
+    dur: 0.075
+  - lab: t
+    dur: 0.06
+  - lab: '{'
+    dur: 0.15
+  - lab: f
+    dur: 0.07
+  - lab: t
+    dur: 0.08
+  - lab: r=
+    dur: 0.1
+  - lab: t
+    dur: 0.125
+  - lab: E
+    dur: 0.12
+  - lab: n
+    dur: 0.055
+  - lab: t
+    dur: 0.06
+  - lab: '@'
+    dur: 0.055
+  - lab: t
+    dur: 0.11
+  - lab: E
+    dur: 0.22
+  - lab: n
+    dur: 0.125
+  - lab: _
+    dur: 0.135
+  - lab: I
+    dur: 0.055
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.03
+  - lab: m
+    dur: 0.065
+  - lab: O
+    dur: 0.16
+  - lab: r
+    dur: 0.065
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.09
+  - lab: N
+    dur: 0.085
+  - lab: _
+    dur: 0.855
+  - lab: _
+    dur: 0.22
+- prompt: time0011
+  start: 55.0
+  end: 60.0
+  text: The time is now, a little after five to eleven, in the morning.
+  segments:
+  - lab: _
+    dur: 0.405
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.03
+  - lab: t
+    dur: 0.115
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.105
+  - lab: I
+    dur: 0.065
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.3
+  - lab: _
+    dur: 0.12
+  - lab: '@'
+    dur: 0.03
+  - lab: l
+    dur: 0.075
+  - lab: I
+    dur: 0.055
+  - lab: t
+    dur: 0.065
+  - lab: '@'
+    dur: 0.035
+  - lab: l
+    dur: 0.065
+  - lab: '{'
+    dur: 0.155
+  - lab: f
+    dur: 0.04
+  - lab: t
+    dur: 0.075
+  - lab: r=
+    dur: 0.065
+  - lab: f
+    dur: 0.115
+  - lab: AI
+    dur: 0.195
+  - lab: v
+    dur: 0.04
+  - lab: t
+    dur: 0.065
+  - lab: '@'
+    dur: 0.045
+  - lab: I
+    dur: 0.05
+  - lab: l
+    dur: 0.09
+  - lab: E
+    dur: 0.09
+  - lab: v
+    dur: 0.045
+  - lab: '@'
+    dur: 0.07
+  - lab: n
+    dur: 0.115
+  - lab: _
+    dur: 0.205
+  - lab: I
+    dur: 0.055
+  - lab: n
+    dur: 0.065
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.035
+  - lab: m
+    dur: 0.04
+  - lab: O
+    dur: 0.155
+  - lab: r
+    dur: 0.065
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.09
+  - lab: N
+    dur: 0.12
+  - lab: _
+    dur: 0.845
+  - lab: _
+    dur: 0.22
+- prompt: time0012
+  start: 60.0
+  end: 64.0
+  text: The time is now, almost twelve.
+  segments:
+  - lab: _
+    dur: 0.405
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.1
+  - lab: AI
+    dur: 0.14
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.075
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.32
+  - lab: _
+    dur: 0.1
+  - lab: O
+    dur: 0.15
+  - lab: l
+    dur: 0.065
+  - lab: m
+    dur: 0.06
+  - lab: '@U'
+    dur: 0.15
+  - lab: s
+    dur: 0.095
+  - lab: t
+    dur: 0.055
+  - lab: t
+    dur: 0.105
+  - lab: w
+    dur: 0.05
+  - lab: E
+    dur: 0.18
+  - lab: l
+    dur: 0.135
+  - lab: v
+    dur: 0.16
+  - lab: _
+    dur: 1.08
+  - lab: _
+    dur: 0.29
+- prompt: time0013
+  start: 64.0
+  end: 69.0
+  text: The time is now, just after five to one, in the afternoon.
+  segments:
+  - lab: _
+    dur: 0.38
+  - lab: D
+    dur: 0.04
+  - lab: '@'
+    dur: 0.03
+  - lab: t
+    dur: 0.1
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.095
+  - lab: I
+    dur: 0.055
+  - lab: z
+    dur: 0.085
+  - lab: n
+    dur: 0.035
+  - lab: aU
+    dur: 0.28
+  - lab: _
+    dur: 0.175
+  - lab: dZ
+    dur: 0.075
+  - lab: V
+    dur: 0.08
+  - lab: s
+    dur: 0.08
+  - lab: t
+    dur: 0.05
+  - lab: '{'
+    dur: 0.155
+  - lab: f
+    dur: 0.065
+  - lab: t
+    dur: 0.075
+  - lab: r=
+    dur: 0.105
+  - lab: f
+    dur: 0.11
+  - lab: AI
+    dur: 0.165
+  - lab: v
+    dur: 0.05
+  - lab: t
+    dur: 0.07
+  - lab: '@'
+    dur: 0.085
+  - lab: w
+    dur: 0.085
+  - lab: V
+    dur: 0.135
+  - lab: n
+    dur: 0.18
+  - lab: _
+    dur: 0.065
+  - lab: I
+    dur: 0.095
+  - lab: n
+    dur: 0.105
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.045
+  - lab: '{'
+    dur: 0.12
+  - lab: f
+    dur: 0.065
+  - lab: t
+    dur: 0.085
+  - lab: r=
+    dur: 0.085
+  - lab: n
+    dur: 0.06
+  - lab: u
+    dur: 0.13
+  - lab: n
+    dur: 0.085
+  - lab: _
+    dur: 0.595
+  - lab: _
+    dur: 0.46
+- prompt: time0014
+  start: 69.0
+  end: 74.0
+  text: The time is now, a little after ten to two, in the afternoon.
+  segments:
+  - lab: _
+    dur: 0.22
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.1
+  - lab: AI
+    dur: 0.14
+  - lab: m
+    dur: 0.095
+  - lab: I
+    dur: 0.065
+  - lab: z
+    dur: 0.08
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.31
+  - lab: _
+    dur: 0.105
+  - lab: '@'
+    dur: 0.03
+  - lab: l
+    dur: 0.08
+  - lab: I
+    dur: 0.055
+  - lab: t
+    dur: 0.06
+  - lab: '@'
+    dur: 0.035
+  - lab: l
+    dur: 0.065
+  - lab: '{'
+    dur: 0.14
+  - lab: f
+    dur: 0.07
+  - lab: t
+    dur: 0.055
+  - lab: r=
+    dur: 0.08
+  - lab: t
+    dur: 0.09
+  - lab: E
+    dur: 0.11
+  - lab: n
+    dur: 0.05
+  - lab: t
+    dur: 0.1
+  - lab: '@'
+    dur: 0.055
+  - lab: t
+    dur: 0.13
+  - lab: u
+    dur: 0.31
+  - lab: _
+    dur: 0.255
+  - lab: I
+    dur: 0.07
+  - lab: n
+    dur: 0.105
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.045
+  - lab: '{'
+    dur: 0.1
+  - lab: f
+    dur: 0.07
+  - lab: t
+    dur: 0.07
+  - lab: r=
+    dur: 0.075
+  - lab: n
+    dur: 0.055
+  - lab: u
+    dur: 0.175
+  - lab: n
+    dur: 0.115
+  - lab: _
+    dur: 0.735
+  - lab: _
+    dur: 0.355
+- prompt: time0015
+  start: 74.0
+  end: 80.0
+  text: The time is now, exactly quarter to three, in the afternoon.
+  segments:
+  - lab: _
+    dur: 0.34
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.11
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.065
+  - lab: z
+    dur: 0.075
+  - lab: n
+    dur: 0.06
+  - lab: aU
+    dur: 0.275
+  - lab: _
+    dur: 0.105
+  - lab: I
+    dur: 0.025
+  - lab: g
+    dur: 0.065
+  - lab: z
+    dur: 0.07
+  - lab: '{'
+    dur: 0.145
+  - lab: k
+    dur: 0.055
+  - lab: t
+    dur: 0.04
+  - lab: l
+    dur: 0.015
+  - lab: i
+    dur: 0.075
+  - lab: k
+    dur: 0.145
+  - lab: w
+    dur: 0.035
+  - lab: O
+    dur: 0.09
+  - lab: r
+    dur: 0.02
+  - lab: t
+    dur: 0.05
+  - lab: r=
+    dur: 0.055
+  - lab: t
+    dur: 0.07
+  - lab: '@'
+    dur: 0.045
+  - lab: T
+    dur: 0.155
+  - lab: r
+    dur: 0.05
+  - lab: i
+    dur: 0.245
+  - lab: _
+    dur: 0.105
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.125
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.045
+  - lab: '{'
+    dur: 0.115
+  - lab: f
+    dur: 0.075
+  - lab: t
+    dur: 0.075
+  - lab: r=
+    dur: 0.085
+  - lab: n
+    dur: 0.055
+  - lab: u
+    dur: 0.16
+  - lab: n
+    dur: 0.075
+  - lab: _
+    dur: 0.565
+  - lab: _
+    dur: 1.635
+- prompt: time0016
+  start: 80.0
+  end: 86.0
+  text: The time is now, almost twenty to four, in the afternoon.
+  segments:
+  - lab: _
+    dur: 0.31
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.105
+  - lab: AI
+    dur: 0.14
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.07
+  - lab: z
+    dur: 0.08
+  - lab: n
+    dur: 0.055
+  - lab: aU
+    dur: 0.33
+  - lab: _
+    dur: 0.06
+  - lab: O
+    dur: 0.125
+  - lab: l
+    dur: 0.085
+  - lab: m
+    dur: 0.055
+  - lab: '@U'
+    dur: 0.19
+  - lab: s
+    dur: 0.08
+  - lab: t
+    dur: 0.05
+  - lab: t
+    dur: 0.1
+  - lab: w
+    dur: 0.01
+  - lab: E
+    dur: 0.055
+  - lab: n
+    dur: 0.055
+  - lab: t
+    dur: 0.055
+  - lab: i
+    dur: 0.03
+  - lab: t
+    dur: 0.07
+  - lab: '@'
+    dur: 0.045
+  - lab: f
+    dur: 0.15
+  - lab: O
+    dur: 0.255
+  - lab: r
+    dur: 0.105
+  - lab: _
+    dur: 0.095
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.095
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.045
+  - lab: '{'
+    dur: 0.13
+  - lab: f
+    dur: 0.065
+  - lab: t
+    dur: 0.08
+  - lab: r=
+    dur: 0.085
+  - lab: n
+    dur: 0.055
+  - lab: u
+    dur: 0.19
+  - lab: n
+    dur: 0.075
+  - lab: _
+    dur: 1.87
+  - lab: _
+    dur: 0.29
+- prompt: time0017
+  start: 86.0
+  end: 92.0
+  text: The time is now, just after twenty-five to five, in the afternoon.
+  segments:
+  - lab: _
+    dur: 0.555
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.11
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.095
+  - lab: n
+    dur: 0.055
+  - lab: aU
+    dur: 0.28
+  - lab: _
+    dur: 0.085
+  - lab: dZ
+    dur: 0.06
+  - lab: V
+    dur: 0.08
+  - lab: s
+    dur: 0.075
+  - lab: t
+    dur: 0.065
+  - lab: '{'
+    dur: 0.155
+  - lab: f
+    dur: 0.065
+  - lab: t
+    dur: 0.075
+  - lab: r=
+    dur: 0.05
+  - lab: t
+    dur: 0.15
+  - lab: w
+    dur: 0.02
+  - lab: E
+    dur: 0.06
+  - lab: n
+    dur: 0.055
+  - lab: t
+    dur: 0.055
+  - lab: i
+    dur: 0.05
+  - lab: f
+    dur: 0.11
+  - lab: AI
+    dur: 0.185
+  - lab: v
+    dur: 0.045
+  - lab: t
+    dur: 0.065
+  - lab: '@'
+    dur: 0.02
+  - lab: f
+    dur: 0.125
+  - lab: AI
+    dur: 0.32
+  - lab: v
+    dur: 0.095
+  - lab: _
+    dur: 0.22
+  - lab: I
+    dur: 0.045
+  - lab: n
+    dur: 0.055
+  - lab: D
+    dur: 0.01
+  - lab: '@'
+    dur: 0.045
+  - lab: '{'
+    dur: 0.09
+  - lab: f
+    dur: 0.08
+  - lab: t
+    dur: 0.07
+  - lab: r=
+    dur: 0.085
+  - lab: n
+    dur: 0.055
+  - lab: u
+    dur: 0.16
+  - lab: n
+    dur: 0.08
+  - lab: _
+    dur: 1.185
+  - lab: _
+    dur: 0.275
+- prompt: time0018
+  start: 92.0
+  end: 98.0
+  text: The time is now, a little after half past six, in the evening.
+  segments:
+  - lab: _
+    dur: 0.44
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.035
+  - lab: t
+    dur: 0.11
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.085
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.325
+  - lab: _
+    dur: 0.07
+  - lab: '@'
+    dur: 0.025
+  - lab: l
+    dur: 0.095
+  - lab: I
+    dur: 0.055
+  - lab: t
+    dur: 0.07
+  - lab: '@'
+    dur: 0.035
+  - lab: l
+    dur: 0.065
+  - lab: '{'
+    dur: 0.145
+  - lab: f
+    dur: 0.05
+  - lab: t
+    dur: 0.075
+  - lab: r=
+    dur: 0.085
+  - lab: h
+    dur: 0.05
+  - lab: '{'
+    dur: 0.12
+  - lab: f
+    dur: 0.075
+  - lab: p
+    dur: 0.1
+  - lab: '{'
+    dur: 0.16
+  - lab: s
+    dur: 0.05
+  - lab: t
+    dur: 0.015
+  - lab: s
+    dur: 0.125
+  - lab: I
+    dur: 0.115
+  - lab: k
+    dur: 0.1
+  - lab: s
+    dur: 0.135
+  - lab: _
+    dur: 0.26
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.075
+  - lab: D
+    dur: 0.01
+  - lab: '@'
+    dur: 0.025
+  - lab: i
+    dur: 0.235
+  - lab: v
+    dur: 0.05
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.12
+  - lab: N
+    dur: 0.09
+  - lab: _
+    dur: 0.225
+  - lab: _
+    dur: 1.605
+- prompt: time0019
+  start: 98.0
+  end: 104.0
+  text: The time is now, exactly twenty-five past seven, in the evening.
+  segments:
+  - lab: _
+    dur: 0.425
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.11
+  - lab: AI
+    dur: 0.14
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.085
+  - lab: n
+    dur: 0.06
+  - lab: aU
+    dur: 0.285
+  - lab: _
+    dur: 0.11
+  - lab: I
+    dur: 0.03
+  - lab: g
+    dur: 0.065
+  - lab: z
+    dur: 0.07
+  - lab: '{'
+    dur: 0.16
+  - lab: k
+    dur: 0.06
+  - lab: t
+    dur: 0.055
+  - lab: l
+    dur: 0.02
+  - lab: i
+    dur: 0.09
+  - lab: t
+    dur: 0.13
+  - lab: w
+    dur: 0.035
+  - lab: E
+    dur: 0.06
+  - lab: n
+    dur: 0.05
+  - lab: t
+    dur: 0.065
+  - lab: i
+    dur: 0.05
+  - lab: f
+    dur: 0.105
+  - lab: AI
+    dur: 0.185
+  - lab: v
+    dur: 0.06
+  - lab: p
+    dur: 0.085
+  - lab: '{'
+    dur: 0.17
+  - lab: s
+    dur: 0.06
+  - lab: t
+    dur: 0.055
+  - lab: s
+    dur: 0.105
+  - lab: E
+    dur: 0.105
+  - lab: v
+    dur: 0.05
+  - lab: '@'
+    dur: 0.08
+  - lab: n
+    dur: 0.135
+  - lab: _
+    dur: 0.11
+  - lab: I
+    dur: 0.055
+  - lab: n
+    dur: 0.065
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.03
+  - lab: i
+    dur: 0.215
+  - lab: v
+    dur: 0.055
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.125
+  - lab: N
+    dur: 0.08
+  - lab: _
+    dur: 1.385
+  - lab: _
+    dur: 0.22
+- prompt: time0020
+  start: 104.0
+  end: 109.0
+  text: The time is now, almost twenty past eight, in the evening.
+  segments:
+  - lab: _
+    dur: 0.305
+  - lab: D
+    dur: 0.04
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.105
+  - lab: AI
+    dur: 0.14
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.055
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.3
+  - lab: _
+    dur: 0.095
+  - lab: O
+    dur: 0.165
+  - lab: l
+    dur: 0.07
+  - lab: m
+    dur: 0.055
+  - lab: '@U'
+    dur: 0.19
+  - lab: s
+    dur: 0.075
+  - lab: t
+    dur: 0.045
+  - lab: t
+    dur: 0.1
+  - lab: w
+    dur: 0.015
+  - lab: E
+    dur: 0.05
+  - lab: n
+    dur: 0.055
+  - lab: t
+    dur: 0.075
+  - lab: i
+    dur: 0.045
+  - lab: p
+    dur: 0.11
+  - lab: '{'
+    dur: 0.165
+  - lab: s
+    dur: 0.07
+  - lab: t
+    dur: 0.065
+  - lab: EI
+    dur: 0.2
+  - lab: t
+    dur: 0.235
+  - lab: _
+    dur: 0.13
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.01
+  - lab: '@'
+    dur: 0.035
+  - lab: i
+    dur: 0.22
+  - lab: v
+    dur: 0.05
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.095
+  - lab: N
+    dur: 0.105
+  - lab: _
+    dur: 0.86
+  - lab: _
+    dur: 0.22
+- prompt: time0021
+  start: 109.0
+  end: 115.0
+  text: The time is now, just after quarter past nine, in the evening.
+  segments:
+  - lab: _
+    dur: 0.375
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.04
+  - lab: t
+    dur: 0.11
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.045
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.04
+  - lab: aU
+    dur: 0.315
+  - lab: _
+    dur: 0.25
+  - lab: dZ
+    dur: 0.12
+  - lab: V
+    dur: 0.08
+  - lab: s
+    dur: 0.09
+  - lab: t
+    dur: 0.07
+  - lab: '{'
+    dur: 0.15
+  - lab: f
+    dur: 0.045
+  - lab: t
+    dur: 0.085
+  - lab: r=
+    dur: 0.09
+  - lab: k
+    dur: 0.14
+  - lab: w
+    dur: 0.035
+  - lab: O
+    dur: 0.075
+  - lab: r
+    dur: 0.035
+  - lab: t
+    dur: 0.07
+  - lab: r=
+    dur: 0.04
+  - lab: p
+    dur: 0.085
+  - lab: '{'
+    dur: 0.16
+  - lab: s
+    dur: 0.085
+  - lab: t
+    dur: 0.05
+  - lab: n
+    dur: 0.05
+  - lab: AI
+    dur: 0.18
+  - lab: n
+    dur: 0.075
+  - lab: _
+    dur: 0.22
+  - lab: I
+    dur: 0.06
+  - lab: n
+    dur: 0.06
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.045
+  - lab: i
+    dur: 0.225
+  - lab: v
+    dur: 0.05
+  - lab: n
+    dur: 0.055
+  - lab: I
+    dur: 0.11
+  - lab: N
+    dur: 0.085
+  - lab: _
+    dur: 0.22
+  - lab: _
+    dur: 1.495
+- prompt: time0022
+  start: 115.0
+  end: 120.0
+  text: The time is now, almost ten past ten, in the evening.
+  segments:
+  - lab: _
+    dur: 0.245
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.105
+  - lab: AI
+    dur: 0.135
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.09
+  - lab: n
+    dur: 0.04
+  - lab: aU
+    dur: 0.27
+  - lab: _
+    dur: 0.115
+  - lab: O
+    dur: 0.115
+  - lab: l
+    dur: 0.095
+  - lab: m
+    dur: 0.055
+  - lab: '@U'
+    dur: 0.18
+  - lab: s
+    dur: 0.065
+  - lab: t
+    dur: 0.05
+  - lab: t
+    dur: 0.05
+  - lab: E
+    dur: 0.115
+  - lab: n
+    dur: 0.08
+  - lab: p
+    dur: 0.085
+  - lab: '{'
+    dur: 0.155
+  - lab: s
+    dur: 0.085
+  - lab: t
+    dur: 0.04
+  - lab: t
+    dur: 0.065
+  - lab: E
+    dur: 0.195
+  - lab: n
+    dur: 0.075
+  - lab: _
+    dur: 0.19
+  - lab: I
+    dur: 0.055
+  - lab: n
+    dur: 0.11
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.045
+  - lab: i
+    dur: 0.14
+  - lab: v
+    dur: 0.055
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.08
+  - lab: N
+    dur: 0.11
+  - lab: _
+    dur: 1.18
+  - lab: _
+    dur: 0.22
+- prompt: time0023
+  start: 120.0
+  end: 125.0
+  text: The time is now, exactly five past eleven, in the evening.
+  segments:
+  - lab: _
+    dur: 0.33
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.045
+  - lab: t
+    dur: 0.115
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.08
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.08
+  - lab: n
+    dur: 0.05
+  - lab: aU
+    dur: 0.28
+  - lab: _
+    dur: 0.08
+  - lab: I
+    dur: 0.03
+  - lab: g
+    dur: 0.065
+  - lab: z
+    dur: 0.07
+  - lab: '{'
+    dur: 0.15
+  - lab: k
+    dur: 0.055
+  - lab: t
+    dur: 0.035
+  - lab: l
+    dur: 0.03
+  - lab: i
+    dur: 0.105
+  - lab: f
+    dur: 0.135
+  - lab: AI
+    dur: 0.17
+  - lab: v
+    dur: 0.055
+  - lab: p
+    dur: 0.105
+  - lab: '{'
+    dur: 0.135
+  - lab: s
+    dur: 0.04
+  - lab: t
+    dur: 0.065
+  - lab: I
+    dur: 0.06
+  - lab: l
+    dur: 0.04
+  - lab: E
+    dur: 0.105
+  - lab: v
+    dur: 0.05
+  - lab: '@'
+    dur: 0.055
+  - lab: n
+    dur: 0.105
+  - lab: _
+    dur: 0.19
+  - lab: I
+    dur: 0.055
+  - lab: n
+    dur: 0.065
+  - lab: D
+    dur: 0.02
+  - lab: '@'
+    dur: 0.035
+  - lab: i
+    dur: 0.235
+  - lab: v
+    dur: 0.055
+  - lab: n
+    dur: 0.05
+  - lab: I
+    dur: 0.12
+  - lab: N
+    dur: 0.08
+  - lab: _
+    dur: 0.905
+  - lab: _
+    dur: 0.23
+- prompt: time0024
+  start: 125.0
+  end: 130.0
+  text: The time is now, a little after quarter to midnight.
+  segments:
+  - lab: _
+    dur: 0.32
+  - lab: D
+    dur: 0.035
+  - lab: '@'
+    dur: 0.035
+  - lab: t
+    dur: 0.115
+  - lab: AI
+    dur: 0.145
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: z
+    dur: 0.08
+  - lab: n
+    dur: 0.045
+  - lab: aU
+    dur: 0.285
+  - lab: _
+    dur: 0.09
+  - lab: '@'
+    dur: 0.04
+  - lab: l
+    dur: 0.09
+  - lab: I
+    dur: 0.055
+  - lab: t
+    dur: 0.06
+  - lab: '@'
+    dur: 0.035
+  - lab: l
+    dur: 0.065
+  - lab: '{'
+    dur: 0.14
+  - lab: f
+    dur: 0.06
+  - lab: t
+    dur: 0.065
+  - lab: r=
+    dur: 0.07
+  - lab: k
+    dur: 0.15
+  - lab: w
+    dur: 0.04
+  - lab: O
+    dur: 0.08
+  - lab: r
+    dur: 0.035
+  - lab: t
+    dur: 0.055
+  - lab: r=
+    dur: 0.05
+  - lab: t
+    dur: 0.08
+  - lab: '@'
+    dur: 0.055
+  - lab: m
+    dur: 0.1
+  - lab: I
+    dur: 0.06
+  - lab: d
+    dur: 0.06
+  - lab: n
+    dur: 0.055
+  - lab: AI
+    dur: 0.18
+  - lab: t
+    dur: 0.145
+  - lab: _
+    dur: 1.66
+  - lab: _
+    dur: 0.205
