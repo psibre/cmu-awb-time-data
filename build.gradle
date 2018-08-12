@@ -1,6 +1,5 @@
 plugins {
     id "org.m2ci.msp.github-ivy-repo" version "0.1.1"
-    id 'de.dfki.mary.voicebuilding-festvox' version '5.3.2'
     id "org.m2ci.msp.flaml" version "0.3.0"
     id 'ivy-publish'
 }
@@ -9,18 +8,6 @@ group 'de.dfki.mary'
 version '0.2-SNAPSHOT'
 
 repositories {
-    ivy {
-        url 'https://dl.bintray.com/marytts/marytts'
-        layout 'pattern', {
-            artifact '[organisation]/[module]/[artifact].[ext]'
-        }
-    }
-    ivy {
-        url 'http://festvox.org/examples'
-        layout 'pattern', {
-            artifact '[module]_[classifier]/packed/[artifact].[ext]'
-        }
-    }
     github('psibre')
 }
 
@@ -28,7 +15,6 @@ configurations.create 'flaml'
 
 dependencies {
     flaml group: 'de.dfki.mary', name: 'cmu-awb-time-data', version: '0.1'
-    data group: 'org.festvox', name: 'cmu_time_awb', classifier: 'ldom', ext: 'tar.bz2'
 }
 
 task unpackFlaml(type: UnpackFlaml) {
@@ -42,37 +28,8 @@ flaml {
     flacFile = unpackFlaml.flacFile
 }
 
-generateFlac {
-    dependsOn wav
-    srcFiles = fileTree(wav.destDir).include('*.wav')
-    flacFile = flaml.flacFile
-}
-
-generateYaml {
-    dependsOn wav
-    srcFiles = fileTree(wav.destDir).include('*.wav')
-}
-
-text {
-    srcFileName = 'time.data'
-}
-
-injectText {
-    dependsOn text
-    textDir = text.destDir
-    yamlSrcFile = generateYaml.yamlFile
-    yamlDestFile = layout.buildDirectory.file('dataWithText.yaml')
-}
-
-injectSegments {
-    dependsOn lab
-    labDir = lab.destinationDir
-    yamlSrcFile = injectText.yamlDestFile
-    yamlDestFile = flaml.yamlFile
-}
-
 task packageYaml(type: Zip) {
-    from injectSegments
+    from flaml.yamlFile
     from 'LICENSE.md'
 }
 
