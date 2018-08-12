@@ -1,6 +1,7 @@
 plugins {
     id 'de.dfki.mary.voicebuilding-festvox' version '5.3.2'
     id "org.m2ci.msp.flaml" version "0.3.0"
+    id 'ivy-publish'
 }
 
 group 'de.dfki.mary'
@@ -52,4 +53,29 @@ injectSegments {
     labDir = lab.destinationDir
     yamlSrcFile = injectText.yamlDestFile
     yamlDestFile = flaml.yamlFile
+}
+
+task packageYaml(type: Zip) {
+    from injectSegments
+    from 'LICENSE.md'
+}
+
+publishing {
+    publications {
+        flaml(IvyPublication) {
+            artifact packageYaml {
+                classifier 'yaml'
+            }
+            artifact source: project.flaml.flacFile.get().asFile, classifier: 'flac'
+            descriptor {
+                status = project.version.endsWith('-SNAPSHOT') ? 'integration' : 'release'
+            }
+        }
+    }
+    repositories {
+        ivy {
+            name 'projectLocal'
+            url "$buildDir/repo"
+        }
+    }
 }
