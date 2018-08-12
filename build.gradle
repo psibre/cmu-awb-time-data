@@ -3,6 +3,9 @@ plugins {
     id "org.m2ci.msp.flaml" version "0.3.0"
 }
 
+group 'de.dfki.mary'
+version '0.1-SNAPSHOT'
+
 repositories {
     ivy {
         url 'https://dl.bintray.com/marytts/marytts'
