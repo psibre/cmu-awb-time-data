@@ -1,2 +1,2 @@
-rootProject.name = 'cmu-awb-time-data'
+rootProject.name = 'cmu-awb-time-flaml-data'
 enableFeaturePreview('STABLE_PUBLISHING')
