@@ -1,0 +1,26 @@
+plugins {
+    id 'de.dfki.mary.voicebuilding-festvox' version '5.3.2'
+}
+
+repositories {
+    ivy {
+        url 'https://dl.bintray.com/marytts/marytts'
+        layout 'pattern', {
+            artifact '[organisation]/[module]/[artifact].[ext]'
+        }
+    }
+    ivy {
+        url 'http://festvox.org/examples'
+        layout 'pattern', {
+            artifact '[module]_[classifier]/packed/[artifact].[ext]'
+        }
+    }
+}
+
+dependencies {
+    data group: 'org.festvox', name: 'cmu_time_awb', classifier: 'ldom', ext: 'tar.bz2'
+}
+
+text {
+    srcFileName = 'time.data'
+}
