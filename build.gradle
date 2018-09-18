@@ -1,6 +1,7 @@
 plugins {
     id "org.m2ci.msp.github-ivy-repo" version "0.1.1"
     id "org.m2ci.msp.flaml" version "0.3.0"
+    id 'de.dfki.mary.voicebuilding.marytts-kaldi-mfa'
     id 'ivy-publish'
 }
 
@@ -27,6 +28,10 @@ flaml {
     yamlFile = file('cmu-awb-time-data.yaml')
     flacFile = unpackFlaml.flacFile
 }
+
+convertTextToMaryXml.srcDir = extractTextFiles.destDir
+
+prepareForcedAlignment.wavDir = extractWavFiles.destDir
 
 task packageYaml(type: Zip) {
     from flaml.yamlFile
